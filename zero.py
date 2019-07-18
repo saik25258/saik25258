@@ -1,4 +1,4 @@
-se =int(input('enter the value of a'))
+se =int(input())
 if(se>0):
   print('Positive')
 elif(se<0):
