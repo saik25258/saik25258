@@ -1,7 +1,7 @@
 se =int(input())
-if(se>=0):
-  print('Positive')
-elif(se<=0):
+if(se==0):
+  print('Zero')
+elif(se<0):
   print('Negative')
 else:
-  print('Zero')
+  print('Positive')
